@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        File directory = new File("201808");
+        File directory = new File("jibun");
 
         if (directory.listFiles() != null) {
             int total = 0;
